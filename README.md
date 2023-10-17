@@ -12,19 +12,19 @@ Solutions des Exercices TP3:
 
 ###  Ex 1: Gestion des produits
 
-![Gestion de Stock](./uml/gestion_des_produits.png)
+![Gestion de Stock](./UML/gestion_des_produits.png)
 
 
 ###  Ex 2: Gestion de stock
 
-![Gestion de Stock](./uml/gestion_de_stock.png)
+![Gestion de Stock](./UML/gestion_de_stock.png)
 
 
 ###  Ex 3: Gestion de projet
 
-![Gestion de Projet](./uml/gestion_de_projet.png)
+![Gestion de Projet](./UML/gestion_de_projet.png)
 
 
 ###  TAR: Gestion d'etat civil
 
-![Gestion de L'Etat Civil](./uml/gestion_d_etat_civil.png)"# TP-Hibernate" 
+![Gestion de L'Etat Civil](./UML/gestion_d_etat_civil.png)"# TP-Hibernate" 
